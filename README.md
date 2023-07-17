@@ -15,6 +15,14 @@ located in the `src` folder, and scroll down to the `External Dataset Evaluation
   
 <img width="500" alt="image" src="https://github.com/AlifioDitya/Supervised-Learning-From-Scratch/assets/103266159/25010f68-4c5b-4417-aad1-b4064217c1bb">
 
+## Assumptions
+The algorithms are implemented with the following assumptions:
+- The dataset is in a CSV format
+- For KNN, Logistic Regression, all data must be numerical and of no ordinality
+- For ID3, the data must be an encoded form of a fully categorical dataset
+- For Decision Tree, the data can be a mix of numerical and encoded form of categorical data
+- Logistic Regression assumes the task of binary classification, since the binary cross-entropy loss function is used in implementation
+
 ## Requirements
 * [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
