@@ -1,5 +1,5 @@
 # Supervised Learning: From Scratch!
-This repository features a collection of supervised learning algorithms for classification tasks implemented from scratch in Python. The algorithms are implemented in a Jupyter Notebook format, allowing for easy visualization of the results. A question and answer section is also provided to explain the inner workings of each algorithm, located in the `docs` folder.
+This repository features a collection of supervised learning algorithms for classification tasks implemented from scratch in Python. The algorithms are implemented in a Jupyter Notebook format, allowing for easy visualization of the results. A question and answer section is also provided to explain the inner workings of each algorithm, located in the `docs` folder. This is a part of the "**From Scratch!**" series I made as a personal project to further my understanding of machine learning algorithms.
 
 ## Algorithms
 The following algorithms are implemented:
