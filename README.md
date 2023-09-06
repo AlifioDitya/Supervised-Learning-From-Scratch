@@ -7,7 +7,7 @@ The following algorithms are implemented:
 - Logistic Regression
 - Iterative Dichotomiser 3 (ID3)
 - Decision Tree  
-
+< br/>
 The implementation of each algorithm is located in the `src/Models` folder.
 
 ## How to Use
