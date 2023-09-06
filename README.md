@@ -6,7 +6,8 @@ The following algorithms are implemented:
 - K-Nearest Neighbors
 - Logistic Regression
 - Iterative Dichotomiser 3 (ID3)
-- Decision Tree
+- Decision Tree  
+
 The implementation of each algorithm is located in the `src/Models` folder.
 
 ## How to Use
